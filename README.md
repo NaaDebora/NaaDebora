@@ -1,9 +1,4 @@
-### Oii!!
-Me chamo Naã Debora e sou Dev Jr.
 
-Estarei registrando aqui todos os meus projetos e minha evolução na programação.
-
-##
 
 <!--
 **NaaDebora/NaaDebora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
